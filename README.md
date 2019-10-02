@@ -1,1 +1,1 @@
-# pig-game
+# Pig's Game
